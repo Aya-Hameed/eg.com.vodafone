@@ -8,3 +8,4 @@ id
 name
 className
 xpath
+cssSelector
